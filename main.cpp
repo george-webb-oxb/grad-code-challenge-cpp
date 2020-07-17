@@ -23,6 +23,8 @@
 #include "unordered_numbers.h"
 
 int main() {
+  std::cout << "Hello!\n";
+
   // 1. Write a function that takes in a vector of unordered numbers
   //    (unordered_numbers.h) and returns a vectors of ordered numbers 
   //    (ascending order) using a merge sort. 
