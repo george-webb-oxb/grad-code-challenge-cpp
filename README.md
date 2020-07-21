@@ -2,7 +2,6 @@
 
 Hello! It's time for a quick coding challenge! The instructions on how to set it all up are below. If you have any issues just ask someone (George).
 
-
 ## Instructions 
 
 1. Go to https://repl.it/ and click `start coding <>`.
