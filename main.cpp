@@ -26,9 +26,9 @@ int main() {
   std::cout << "Hello!\n";
 
   // 1. Write a function that takes in a vector of unordered numbers
-  //    (unordered_numbers.h) and returns a vectors of ordered numbers 
+  //    (unordered_numbers.h) and returns a vector of ordered numbers 
   //    (ascending order) using a merge sort. 
-  //    Don't use an in build sort function (that makes it too easy)
+  //    Don't use an sort function from c++ (that makes it too easy)
   // Merge Sort: https://www.bbc.co.uk/bitesize/guides/zjdkw6f/revision/5
 
   // 2. Write a function to show your sorting works on your ordered numbers
@@ -37,7 +37,7 @@ int main() {
   // 3. Write a function that performs a binary search to return 
   //    the index of a given number (if it exists!).
   // Binary Search: https://www.bbc.co.uk/bitesize/guides/zjdkw6f/revision/3
-  // (Try not to read the sudo code at the end of the page....)
+  // (Try not to read the pseudocode at the end of the page....)
 
   // 4. Write a function to show your binary search works 
   //    (e.g. Prints "Passed" to the terminal on an expected result).
